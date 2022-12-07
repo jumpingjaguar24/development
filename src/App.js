@@ -65,7 +65,7 @@ function App() {
       
       <Navbar className="navbar" collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="./App.js" className='nav-title'>Guiseppe's</Navbar.Brand>
+        <Navbar.Brand href="#" className='nav-title'>Guiseppe's</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
